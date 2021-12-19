@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title>Guardian</title>
+  <title>Protector</title>
   <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.10/semantic.min.css">
   <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
@@ -87,7 +87,7 @@
           viewBox="0 0 24 24">
           <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
         </svg>
-        <span class="ml-3 text-xl text-white font-mono">Guardian</span>
+        <span class="ml-3 text-xl text-white font-mono">Protector</span>
       </a>
       <a class="mr-5 hover:text-white text-white"></a>
       <h1 id="myLat" class="text-white font-bold font-mono">Latitude: </h1>
